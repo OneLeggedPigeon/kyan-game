@@ -1,2 +1,2 @@
 # Rinetto Kyandie Fangame
-Forked from powch/kyand-game
+Forked from powch/kyan-game
